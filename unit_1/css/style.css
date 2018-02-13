@@ -1,7 +1,8 @@
 
 body {
-background-color:red;
+background-color:grey;
 }
-h1, p {
-	color: purple;
+h1, h2, p {
+	color: navy;
 }
+
